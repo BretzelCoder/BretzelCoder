@@ -34,7 +34,7 @@ Here are some of my public experiments and labs that I like to maintain:
 
 ### 🌐 Connect with me
 
-*   **💼 LinkedIn:** [://linkedin.com]([https://www.linkedin.com/in/jean-lucrominger/]) *(Remplacer par votre lien)*
+*   **💼 LinkedIn :** [Jean-Luc Rominger](https://www.linkedin.com/in/jean-lucrominger/)
 
 ---
 <p align="center">
