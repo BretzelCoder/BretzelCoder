@@ -23,7 +23,7 @@ Here are some of my public experiments and labs that I like to maintain:
 *   **[GoogleAgendaAssistant](https://github.com/BretzelCoder/GoogleAgendaAssistant)** - A simple web interface to manage and interact easily with the Google Calendar API. (JavaScript)
 *   **[Fibonacci](https://github.com/BretzelCoder/Fibonacci)** - Caching strategies and algorithmic optimization compared across two stacks: Python (Flet GUI, pytest) and a .NET 9 API with a Vue 3 front end. (Python, C#, Vue)
 *   **[FruitSudoku](https://github.com/BretzelCoder/FruitSudoku)** - A fun Sudoku game using fruits and vegetables instead of numbers. (JavaScript)
-*   **[PublicDatasetAndStatistics](https://github.com/BretzelCoder/PublicDatasetAndStatistics)** - Investigations into statistics on French Government public data, such as elections. (HTML)
+*   **[PublicDatasetAndStatistics](https://github.com/BretzelCoder/PublicDatasetAndStatistics)** - Investigations into statistics on French Government public data, such as elections. (HTML, JavaScript, Python)
 
 ---
 
