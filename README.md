@@ -21,7 +21,7 @@ Here are some of my public experiments and labs that I like to maintain:
 
 *   **[ZeTimeConnect](https://github.com/BretzelCoder/ZeTimeConnect)** - A basic script and GUI to reconnect and interact with the MyKronoz ZeTime hybrid watch. (Python)
 *   **[GoogleAgendaAssistant](https://github.com/BretzelCoder/GoogleAgendaAssistant)** - A simple web interface to manage and interact easily with the Google Calendar API. (JavaScript)
-*   **[Fibonacci](https://github.com/BretzelCoder/Fibonacci)** - A lightweight testing laboratory focused on exploring Python caching mechanisms and performance. (Python)
+*   **[Fibonacci](https://github.com/BretzelCoder/Fibonacci)** - Caching strategies and algorithmic optimization compared across two stacks: Python (Flet GUI, pytest) and a .NET 9 API with a Vue 3 front end. (Python, C#, Vue)
 *   **[FruitSudoku](https://github.com/BretzelCoder/FruitSudoku)** - A fun Sudoku game using fruits and vegetables instead of numbers. (JavaScript)
 *   **[PublicDatasetAndStatistics](https://github.com/BretzelCoder/PublicDatasetAndStatistics)** - Investigations into statistics on French Government public data, such as elections. (HTML)
 
@@ -33,7 +33,7 @@ Here are some of my public experiments and labs that I like to maintain:
 
 ### 🛠️ Tech Stack & Ecosystem
 
-*   **Languages:** C++, C#, .NET, Python, TypeScript, JavaScript (ES6+)
+*   **Languages:** C++, C#, .NET, Python, TypeScript, JavaScript (ES6+), Vue 3
 *   **Concepts:** API Integration, Software Architecture, Automation, Performance Caching, Agility
 *   **Workflows:** Git, Pull Request Reviews, Continuous Collaboration, AI-assisted development
 *   **Methodology:** Moving from Waterfall to Agile (Scrum/Kanban) for Engineering and Hybrid Agile for Implementations
