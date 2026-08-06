@@ -34,8 +34,7 @@ Here are some of my public experiments and labs that I like to maintain:
 
 ### 🌐 Connect with me
 
-*   **💼 LinkedIn:** [://linkedin.com](https://://linkedin.com) *(Remplacer par votre lien)*
-*   **🌍 Personal Website:** [votre-portfolio.com](https://votre-portfolio.com) *(Remplacer ou supprimer)*
+*   **💼 LinkedIn:** [://linkedin.com]([https://www.linkedin.com/in/jean-lucrominger/]) *(Remplacer par votre lien)*
 
 ---
 <p align="center">
