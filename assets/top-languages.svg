@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="304" viewBox="0 0 495 304" role="img" aria-labelledby="t d">
   <title id="t">Top languages</title>
-  <desc id="d">Share of code across 6 public repositories: Python 30.0%, JavaScript 21.1%, HTML 18.3%, Java 10.8%, CSS 7.6%, C# 4.2%, Vue 2.3%, Other 0.4%.</desc>
+  <desc id="d">Share of code across 6 public repositories: Python 35.4%, JavaScript 21.1%, HTML 18.3%, Java 10.8%, CSS 7.6%, C# 4.2%, Vue 2.3%, Other 0.4%.</desc>
   <style>
     .surface { fill: #fcfcfb; stroke: #e3e2de; }
     .bar { fill: #2a78d6; }
@@ -22,7 +22,7 @@
   <text class="subtitle" x="24" y="53">Share of code across 6 public repositories</text>
   <text class="label" x="24" y="82">Python</text>
   <path class="bar" d="M134 72h246.0a4 4 0 0 1 4 4v4a4 4 0 0 1 -4 4h-246.0z"/>
-  <text class="value" x="392.0" y="82">30.0%</text>
+  <text class="value" x="392.0" y="82">35.4%</text>
   <text class="label" x="24" y="110">JavaScript</text>
   <path class="bar" d="M134 100h145.2a4 4 0 0 1 4 4v4a4 4 0 0 1 -4 4h-145.2z"/>
   <text class="value" x="291.2" y="110">21.1%</text>
