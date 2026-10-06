@@ -24,11 +24,13 @@ Here are some of my public experiments and labs that I like to maintain:
 *   **[Fibonacci](https://github.com/BretzelCoder/Fibonacci)** - Caching strategies and algorithmic optimization compared across three stacks: Python (Flet GUI, pytest), a .NET 9 API with a Vue 3 front end, and Java 21 with Spring Boot. (Python, C#, Vue, Java)
 *   **[FruitSudoku](https://github.com/BretzelCoder/FruitSudoku)** - A fun Sudoku game using fruits and vegetables instead of numbers. (JavaScript)
 *   **[PublicDatasetAndStatistics](https://github.com/BretzelCoder/PublicDatasetAndStatistics)** - Investigations into statistics on French Government public data, such as elections. (HTML, JavaScript, Python)
+*   **[reachouttrack-landing](https://github.com/BretzelCoder/reachouttrack-landing)** - Static landing page for ReachOutTrack, served from GitHub Pages at www.reachouttrack.org. (HTML)
 
 ---
 
 <!-- Stats cards intentionally omitted: the public github-readme-stats instance is
-     currently returning DEPLOYMENT_PAUSED (503), so its cards render as broken images.
+     broken: it first returned DEPLOYMENT_PAUSED (503) and, as of 2026-10-06, answers 200 with an
+     error image ("Cannot read properties of undefined"), so its cards render as broken.
      To restore them, self-host github-readme-stats and point the URL there. -->
 
 ### 🛠️ Tech Stack & Ecosystem
