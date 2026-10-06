@@ -21,7 +21,7 @@ Here are some of my public experiments and labs that I like to maintain:
 
 *   **[ZeTimeConnect](https://github.com/BretzelCoder/ZeTimeConnect)** - A basic script and GUI to reconnect and interact with the MyKronoz ZeTime hybrid watch. (Python)
 *   **[GoogleAgendaAssistant](https://github.com/BretzelCoder/GoogleAgendaAssistant)** - Import `.ics` files and iCalendar feeds into Google Calendar: a serverless browser app, plus a Flask variant that also syncs a SIGA university timetable. (Python, JavaScript)
-*   **[Fibonacci](https://github.com/BretzelCoder/Fibonacci)** - Caching strategies and algorithmic optimization compared across two stacks: Python (Flet GUI, pytest) and a .NET 9 API with a Vue 3 front end. (Python, C#, Vue)
+*   **[Fibonacci](https://github.com/BretzelCoder/Fibonacci)** - Caching strategies and algorithmic optimization compared across three stacks: Python (Flet GUI, pytest), a .NET 9 API with a Vue 3 front end, and Java 21 with Spring Boot. (Python, C#, Vue, Java)
 *   **[FruitSudoku](https://github.com/BretzelCoder/FruitSudoku)** - A fun Sudoku game using fruits and vegetables instead of numbers. (JavaScript)
 *   **[PublicDatasetAndStatistics](https://github.com/BretzelCoder/PublicDatasetAndStatistics)** - Investigations into statistics on French Government public data, such as elections. (HTML, JavaScript, Python)
 
