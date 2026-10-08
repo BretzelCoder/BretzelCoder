@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="304" viewBox="0 0 495 304" role="img" aria-labelledby="t d">
   <title id="t">Top languages</title>
-  <desc id="d">Share of code across 6 public repositories: Python 35.4%, JavaScript 21.1%, HTML 18.3%, Java 10.8%, CSS 7.6%, C# 4.2%, Vue 2.3%, Other 0.4%.</desc>
+  <desc id="d">Share of code across 7 public repositories: HTML 38.0%, Python 26.9%, JavaScript 16.0%, Java 8.2%, CSS 5.8%, C# 3.1%, Vue 1.7%, Other 0.3%.</desc>
   <style>
     .surface { fill: #fcfcfb; stroke: #e3e2de; }
     .bar { fill: #2a78d6; }
@@ -19,29 +19,29 @@
   </style>
   <rect class="surface" x="0.5" y="0.5" width="494" height="303" rx="6"/>
   <text class="title" x="24" y="34">Top languages</text>
-  <text class="subtitle" x="24" y="53">Share of code across 6 public repositories</text>
-  <text class="label" x="24" y="82">Python</text>
+  <text class="subtitle" x="24" y="53">Share of code across 7 public repositories</text>
+  <text class="label" x="24" y="82">HTML</text>
   <path class="bar" d="M134 72h246.0a4 4 0 0 1 4 4v4a4 4 0 0 1 -4 4h-246.0z"/>
-  <text class="value" x="392.0" y="82">35.4%</text>
-  <text class="label" x="24" y="110">JavaScript</text>
-  <path class="bar" d="M134 100h145.2a4 4 0 0 1 4 4v4a4 4 0 0 1 -4 4h-145.2z"/>
-  <text class="value" x="291.2" y="110">21.1%</text>
-  <text class="label" x="24" y="138">HTML</text>
-  <path class="bar" d="M134 128h125.3a4 4 0 0 1 4 4v4a4 4 0 0 1 -4 4h-125.3z"/>
-  <text class="value" x="271.3" y="138">18.3%</text>
+  <text class="value" x="392.0" y="82">38.0%</text>
+  <text class="label" x="24" y="110">Python</text>
+  <path class="bar" d="M134 100h172.6a4 4 0 0 1 4 4v4a4 4 0 0 1 -4 4h-172.6z"/>
+  <text class="value" x="318.6" y="110">26.9%</text>
+  <text class="label" x="24" y="138">JavaScript</text>
+  <path class="bar" d="M134 128h101.4a4 4 0 0 1 4 4v4a4 4 0 0 1 -4 4h-101.4z"/>
+  <text class="value" x="247.4" y="138">16.0%</text>
   <text class="label" x="24" y="166">Java</text>
-  <path class="bar" d="M134 156h72.3a4 4 0 0 1 4 4v4a4 4 0 0 1 -4 4h-72.3z"/>
-  <text class="value" x="218.3" y="166">10.8%</text>
+  <path class="bar" d="M134 156h49.9a4 4 0 0 1 4 4v4a4 4 0 0 1 -4 4h-49.9z"/>
+  <text class="value" x="195.9" y="166">8.2%</text>
   <text class="label" x="24" y="194">CSS</text>
-  <path class="bar" d="M134 184h49.6a4 4 0 0 1 4 4v4a4 4 0 0 1 -4 4h-49.6z"/>
-  <text class="value" x="195.6" y="194">7.6%</text>
+  <path class="bar" d="M134 184h33.8a4 4 0 0 1 4 4v4a4 4 0 0 1 -4 4h-33.8z"/>
+  <text class="value" x="179.8" y="194">5.8%</text>
   <text class="label" x="24" y="222">C#</text>
-  <path class="bar" d="M134 212h25.3a4 4 0 0 1 4 4v4a4 4 0 0 1 -4 4h-25.3z"/>
-  <text class="value" x="171.3" y="222">4.2%</text>
+  <path class="bar" d="M134 212h16.7a4 4 0 0 1 4 4v4a4 4 0 0 1 -4 4h-16.7z"/>
+  <text class="value" x="162.7" y="222">3.1%</text>
   <text class="label" x="24" y="250">Vue</text>
-  <path class="bar" d="M134 240h11.9a4 4 0 0 1 4 4v4a4 4 0 0 1 -4 4h-11.9z"/>
-  <text class="value" x="157.9" y="250">2.3%</text>
+  <path class="bar" d="M134 240h7.3a4 4 0 0 1 4 4v4a4 4 0 0 1 -4 4h-7.3z"/>
+  <text class="value" x="153.3" y="250">1.7%</text>
   <text class="label" x="24" y="278">Other</text>
   <path class="bar" d="M134 268h4.0a4 4 0 0 1 4 4v4a4 4 0 0 1 -4 4h-4.0z"/>
-  <text class="value" x="150.0" y="278">0.4%</text>
+  <text class="value" x="150.0" y="278">0.3%</text>
 </svg>
