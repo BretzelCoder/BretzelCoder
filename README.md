@@ -19,6 +19,9 @@ I lead engineering teams, and I keep writing code, exploring new architectures a
 
 Here are some of my public experiments and labs that I like to maintain:
 
+<!-- sdd-kit has no language tag on purpose: it is Markdown only, which GitHub linguist does not
+     count, so a "(Markdown)" tag would be reported as stale by check_profile_consistency.py. -->
+*   **[sdd-kit](https://github.com/BretzelCoder/sdd-kit)** - 🆕 A lightweight Spec-Driven Development kit for Claude Code: five slash commands (`/specify`, `/plan`, `/tasks`, `/implement`, `/review`), a constitution, spec templates, two human validation gates and a retrospective after every session. Distilled from a production web app built in about 100 days with 100+ specs and around 6,000 automated tests. MIT licensed.
 *   **[ZeTimeConnect](https://github.com/BretzelCoder/ZeTimeConnect)** - A basic script and GUI to reconnect and interact with the MyKronoz ZeTime hybrid watch. (Python)
 *   **[GoogleAgendaAssistant](https://github.com/BretzelCoder/GoogleAgendaAssistant)** - Import `.ics` files and iCalendar feeds into Google Calendar: a serverless browser app, plus a Flask variant that also syncs a SIGA university timetable. (Python, JavaScript)
 *   **[Fibonacci](https://github.com/BretzelCoder/Fibonacci)** - Caching strategies and algorithmic optimization compared across three stacks: Python (Flet GUI, pytest), a .NET 9 API with a Vue 3 front end, and Java 21 with Spring Boot. (Python, C#, Vue, Java)
@@ -40,7 +43,7 @@ Here are some of my public experiments and labs that I like to maintain:
 
 *   **Languages:** C++, C#, .NET, Python, TypeScript, JavaScript (ES6+), Vue 3
 *   **Concepts:** API Integration, Software Architecture, Automation, Performance Caching, Agility
-*   **Workflows:** Git, Pull Request Reviews, Continuous Collaboration, AI-assisted development
+*   **Workflows:** Git, Pull Request Reviews, Continuous Collaboration, AI-assisted development with Claude Code driven by Spec-Driven Development (SDD)
 *   **Methodology:** Moving from Waterfall to Agile (Scrum/Kanban) for Engineering and Hybrid Agile for Implementations
 *   **Cloud:** Private to Public Cloud (AWS, GCP)
 
