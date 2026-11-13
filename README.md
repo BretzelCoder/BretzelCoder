@@ -22,14 +22,14 @@ Here are some of my public experiments and labs that I like to maintain:
 <!-- sdd-kit has no language tag on purpose: it is Markdown only, which GitHub linguist does not
      count, so a "(Markdown)" tag would be reported as stale by check_profile_consistency.py. -->
 *   **[sdd-kit](https://github.com/BretzelCoder/sdd-kit)** - 🆕 A lightweight Spec-Driven Development kit for Claude Code: five slash commands (`/specify`, `/plan`, `/tasks`, `/implement`, `/review`), a constitution, spec templates, two human validation gates and a retrospective after every session. Distilled from a production web app built in about 100 days with 100+ specs and around 6,000 automated tests. MIT licensed.
-*   **[ZeTimeConnect](https://github.com/BretzelCoder/ZeTimeConnect)** - A basic script and GUI to reconnect and interact with the MyKronoz ZeTime hybrid watch. (Python)
-*   **[GoogleAgendaAssistant](https://github.com/BretzelCoder/GoogleAgendaAssistant)** - Import `.ics` files and iCalendar feeds into Google Calendar: a serverless browser app, plus a Flask variant that also syncs a SIGA university timetable. (Python, JavaScript)
-*   **[Fibonacci](https://github.com/BretzelCoder/Fibonacci)** - Caching strategies and algorithmic optimization compared across three stacks: Python (Flet GUI, pytest), a .NET 9 API with a Vue 3 front end, and Java 21 with Spring Boot. (Python, C#, Vue, Java)
+*   **[aht-safety-poc](https://github.com/BretzelCoder/aht-safety-poc)** - 🆕 Interactive simulator of an autonomous mining haul truck in mixed traffic: braking envelopes, FMS movement authority, CAN J1939, DDS QoS and an independent safety supervisor, in French, English and German, live on GitHub Pages. (HTML)
+*   **[wcs-poc](https://github.com/BretzelCoder/wcs-poc)** - Interactive demo of a Warehouse Control System: order dispatching from a simulated WMS, AGV / conveyor / sorter simulation and storage-slot management, with a version history and a French / English UI, live on GitHub Pages. (HTML)
 *   **[FruitSudoku](https://github.com/BretzelCoder/FruitSudoku)** - A fun Sudoku game using fruits and vegetables instead of numbers. (JavaScript)
+*   **[Fibonacci](https://github.com/BretzelCoder/Fibonacci)** - Caching strategies and algorithmic optimization compared across three stacks: Python (Flet GUI, pytest), a .NET 9 API with a Vue 3 front end, and Java 21 with Spring Boot. (Python, C#, Vue, Java)
+*   **[GoogleAgendaAssistant](https://github.com/BretzelCoder/GoogleAgendaAssistant)** - Import `.ics` files and iCalendar feeds into Google Calendar: a serverless browser app, plus a Flask variant that also syncs a SIGA university timetable. (Python, JavaScript)
+*   **[ZeTimeConnect](https://github.com/BretzelCoder/ZeTimeConnect)** - A basic script and GUI to reconnect and interact with the MyKronoz ZeTime hybrid watch. (Python)
 *   **[PublicDatasetAndStatistics](https://github.com/BretzelCoder/PublicDatasetAndStatistics)** - Investigations into statistics on French Government public data, such as elections. (HTML, JavaScript, Python)
 *   **[reachouttrack-landing](https://github.com/BretzelCoder/reachouttrack-landing)** - Static landing page for ReachOutTrack, served from GitHub Pages at www.reachouttrack.org. (HTML)
-*   **[wcs-poc](https://github.com/BretzelCoder/wcs-poc)** - Interactive demo of a Warehouse Control System: order dispatching from a simulated WMS, AGV / conveyor / sorter simulation and storage-slot management, with a version history and a French / English UI, live on GitHub Pages. (HTML)
-*   **[aht-safety-poc](https://github.com/BretzelCoder/aht-safety-poc)** - Interactive simulator of an autonomous mining haul truck in mixed traffic: braking envelopes, FMS movement authority, CAN J1939, DDS QoS and an independent safety supervisor, in French, English and German, live on GitHub Pages. (HTML)
 
 ---
 
