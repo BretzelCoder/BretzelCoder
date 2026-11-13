@@ -28,7 +28,8 @@ Here are some of my public experiments and labs that I like to maintain:
 *   **[FruitSudoku](https://github.com/BretzelCoder/FruitSudoku)** - A fun Sudoku game using fruits and vegetables instead of numbers. (JavaScript)
 *   **[PublicDatasetAndStatistics](https://github.com/BretzelCoder/PublicDatasetAndStatistics)** - Investigations into statistics on French Government public data, such as elections. (HTML, JavaScript, Python)
 *   **[reachouttrack-landing](https://github.com/BretzelCoder/reachouttrack-landing)** - Static landing page for ReachOutTrack, served from GitHub Pages at www.reachouttrack.org. (HTML)
-*   **[wcs-poc](https://github.com/BretzelCoder/wcs-poc)** - Interactive demo of a Warehouse Control System: order dispatching from a simulated WMS, AGV / conveyor / sorter simulation and storage-slot management, live on GitHub Pages. (HTML)
+*   **[wcs-poc](https://github.com/BretzelCoder/wcs-poc)** - Interactive demo of a Warehouse Control System: order dispatching from a simulated WMS, AGV / conveyor / sorter simulation and storage-slot management, with a version history and a French / English UI, live on GitHub Pages. (HTML)
+*   **[aht-safety-poc](https://github.com/BretzelCoder/aht-safety-poc)** - Interactive simulator of an autonomous mining haul truck in mixed traffic: braking envelopes, FMS movement authority, CAN J1939, DDS QoS and an independent safety supervisor, in French, English and German, live on GitHub Pages. (HTML)
 
 ---
 
